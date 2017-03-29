@@ -19,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D72A6B41E8B6D25004E949D /* Monoton-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Monoton-Regular.ttf"; sourceTree = "<group>"; };
 		7D9D4AA51E8675F600ED7987 /* Design1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Design1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D9D4AA81E8675F600ED7987 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7D9D4AAA1E8675F600ED7987 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 			children = (
 				7D9D4AA81E8675F600ED7987 /* AppDelegate.swift */,
 				7D9D4AAA1E8675F600ED7987 /* ViewController.swift */,
+				7D72A6B41E8B6D25004E949D /* Monoton-Regular.ttf */,
 				7D9D4AAC1E8675F600ED7987 /* Main.storyboard */,
 				7D9D4AAF1E8675F600ED7987 /* Assets.xcassets */,
 				7D9D4AB11E8675F600ED7987 /* LaunchScreen.storyboard */,
